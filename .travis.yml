@@ -24,6 +24,7 @@ services:
   - rabbitmq
   
 archive: true
+
 script: nosetests
 
 build_image: drydock/u12pytall:tip
