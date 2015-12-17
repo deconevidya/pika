@@ -23,3 +23,4 @@ services:
   
 archive: true
 script: nosetests
+build_image: drydock/u12pytpls:tip
