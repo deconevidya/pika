@@ -20,6 +20,7 @@ install:
 
 services:
   - rabbitmq
+ 
   
 archive: true
 script: nosetests
